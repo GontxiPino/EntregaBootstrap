@@ -18,7 +18,7 @@ header {
 
 @media(min-width: 768px) {
     header {
-        background: url('Material_Entregable1/img/header_image_cropped.jpg');
+        background: url('img/header_image_cropped.jpg');
         background-size: 100% 100%;
     }
 }
@@ -54,7 +54,7 @@ body .nav-link {
 
 }
 .email_us {
-    background: url('Material_Entregable1/img/form.jpg') no-repeat center center;
+    background: url('img/form.jpg') no-repeat center center;
     background-size: cover;
     color: white;
 }
