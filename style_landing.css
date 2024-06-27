@@ -10,7 +10,7 @@ body {
 /* Añadir fondo de imagen del header  */
 
 header {
-    background: url('Material_Entregable1/img/header-mini.png');
+    background: url('img/header-mini.png');
     background-size: 100% 100%;
 }
 
